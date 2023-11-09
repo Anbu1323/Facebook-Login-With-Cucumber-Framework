@@ -1,0 +1,12 @@
+browsername = chrome
+geturl = https://www.facebook.com/
+firstname = Rajesh
+surname = M
+registerMobilenumberoremail = 8056117441
+ registerPassword = 
+ birthDate = 12
+ birthMonth = Dec
+ birthYear = 2001
+ maleGender = click
+ femaleGender =
+ customGender =
